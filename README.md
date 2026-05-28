@@ -5,7 +5,7 @@
 This repository contains the complete academic project report, system architecture blueprints, and source context for the B.Tech Capstone Thesis in Computer and Communication Engineering (CCE) at Amrita School of Engineering, Coimbatore.
 
 ## 📄 Project Document Link
-* **Download Full Paper (PDF):** [Click here to view/download Thesis_proof.pdf](Thesis_proof.pdf)
+* **Download Full Paper (PDF):** [ https://drive.google.com/drive/folders/1OKGeN98UTILSloyILY_DpAyrC2Z8vHZl?usp=drive_link ]
 
 ---
 
